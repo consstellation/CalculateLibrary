@@ -1,0 +1,11 @@
+D:\Проекты\TestTask\CalculateLibrary\bin\Debug\net8.0\CalculateLibrary.deps.json
+D:\Проекты\TestTask\CalculateLibrary\bin\Debug\net8.0\CalculateLibrary.dll
+D:\Проекты\TestTask\CalculateLibrary\bin\Debug\net8.0\CalculateLibrary.pdb
+D:\Проекты\TestTask\CalculateLibrary\obj\Debug\net8.0\CalculateLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\TestTask\CalculateLibrary\obj\Debug\net8.0\CalculateLibrary.AssemblyInfoInputs.cache
+D:\Проекты\TestTask\CalculateLibrary\obj\Debug\net8.0\CalculateLibrary.AssemblyInfo.cs
+D:\Проекты\TestTask\CalculateLibrary\obj\Debug\net8.0\CalculateLibrary.csproj.CoreCompileInputs.cache
+D:\Проекты\TestTask\CalculateLibrary\obj\Debug\net8.0\CalculateLibrary.dll
+D:\Проекты\TestTask\CalculateLibrary\obj\Debug\net8.0\refint\CalculateLibrary.dll
+D:\Проекты\TestTask\CalculateLibrary\obj\Debug\net8.0\CalculateLibrary.pdb
+D:\Проекты\TestTask\CalculateLibrary\obj\Debug\net8.0\ref\CalculateLibrary.dll
